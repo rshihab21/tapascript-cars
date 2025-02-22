@@ -1,12 +1,12 @@
 
-import './App.css'
+import TapaScriptCars from './components/TapaScriptCars'
 
 function App() {
  
 
   return (
     <>
-      <h1>Vite + React</h1>
+      <TapaScriptCars></TapaScriptCars>
     
     </>
   )
