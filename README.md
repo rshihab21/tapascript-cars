@@ -25,10 +25,9 @@ npm create vite@latest tapascript-cars -- --template react
 npm run dev
 
 ## Component Breakdown diagram
-
-[breakdown diagram](./src/assets/ComponentBreakdowndiagram.png)
+![breakdown diagram](./src/assets/ComponentBreakdowndiagram.png)
 
 ## React Dev Tools Screenshot
-[react dev tools](./src/assets/React%20Dev%20Tools%20Screenshot.png)
+![react dev tools](./src/assets/React%20Dev%20Tools%20Screenshot.png)
 
 
